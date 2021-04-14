@@ -5,6 +5,7 @@
 <configuration>
 
     <!-- 全局配置 -->
+
     <settings>
         <!--允许 JDBC 支持自动生成主键-->
         <setting name="useGeneratedKeys" value="false"/>
